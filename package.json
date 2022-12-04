@@ -1,0 +1,30 @@
+{
+  "name": "around-express",
+  "version": "1.0.0",
+  "description": "Backend project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "lint": "npx eslint .",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andruuul/around-express_es.git"
+  },
+  "author": "Andres Canul Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andruuul/around-express_es/issues"
+  },
+  "homepage": "https://github.com/andruuul/around-express_es#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

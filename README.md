@@ -1,4 +1,8 @@
 # Around the U.S. Back End  
+
+This is a project that will teach me how to use Node.js and Express.js to create my own server and my own RESTful API with user authentication.
+
+* There are no pictures yet, since I would like to add them when the project is completed to showcase its features.
   
 ## Directories  
   

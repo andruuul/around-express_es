@@ -23,12 +23,6 @@ This is a project that will teach me how to use Node.js and Express.js to create
 
 ![Project's directories](https://pictures.s3.yandex.net/resources/Artboard_1_1600101133.png)
   
-`/data` — JSON files to temporarily emulate database integration.  
-  
-`/routes` — routing files.  
-  
-All other directories are optional and may be created by the developer if necessary.   
-  
 ## Running the Project  
   
 `npm run start` — to launch the server.  

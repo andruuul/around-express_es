@@ -1,6 +1,7 @@
 # Around the U.S. Back End  
 
-This is a project that will teach me how to use Node.js and Express.js to create my own server and my own REST API with user authentication.
+This is a project that will teach me how to use Node.js and Express.js to create my own server and my own REST API with user authentication. 
+I used MongoDB as the database.
 
 * It contains the following routes:
 
@@ -28,6 +29,3 @@ This is a project that will teach me how to use Node.js and Express.js to create
 `npm run start` — to launch the server.  
   
 `npm run dev` — to launch the server with the hot reload feature.  
-
-
-
